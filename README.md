@@ -11,6 +11,10 @@ PID_Regulator主要包含以下三个部分的内容：
 功能实现
 
 - V1.0 根据协议能够实现PID实时无线调参功能
+
+TODO
+
+- PID曲线显示
 ## PC端上位机
 
 <img src="DOC/images/PID_Regulator_UI.png" style="zoom:80%;display: inline-block; float:middle"/>
@@ -39,26 +43,12 @@ PID_Regulator主要包含以下三个部分的内容：
 - [无线蓝牙模块](https://s.taobao.com/search?q=%E6%97%A0%E7%BA%BF%E8%93%9D%E7%89%99%E6%A8%A1%E5%9D%97&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.2017.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20170306)
 - [绿联 USB蓝牙适配器4.0版接收器](https://item.jd.com/11078472771.html)(PC若自带蓝牙硬件支持则不用）
 
-### 使用
-TODO
+### 软硬件部署
+初始化车载无线蓝牙串口之后，蓝牙模块与PC端蓝牙配对，之后可用正常的串口发送读取相关函数进行数据的无线传输，详细说明（TODO）
 
 # 版权申明
 NJUST Alliance. All rights reserved.
 
 # Bless for NJUST Alliance!
 # Veni! Vedi! Vici!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
