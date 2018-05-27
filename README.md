@@ -33,8 +33,8 @@ TODO
 参考[PID_Regulator_Protocol.pdf](https://github.com/jackychen227/PID_Regulator/blob/master/DOC/PID_Regulator_Protocol.pdf)
 ## STM32_DEMO
 - 蓝牙串口通信
-- 根据指定好的通信协议进行信息传输与解码
-- 参考[RoboMaster/RoboRTS-Firmware](https://github.com/RoboMaster/RoboRTS-Firmware)进行PID的模板设计
+- 根据指定好的通信协议进行信息传输、解码与打包
+- 参考[RoboMaster/RoboRTS-Firmware](https://github.com/RoboMaster/RoboRTS-Firmware)进行PID的参数结构体设计
 ## 蓝牙无线串口传输
 ### 硬件
 #### 有线方案
