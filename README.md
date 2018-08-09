@@ -4,7 +4,7 @@ PID_Regulator是一个旨在为[RoboMaster机甲大师](https://www.robomaster.c
 # 概述
 PID_Regulator主要包含以下三个部分的内容：
 
-- PC端上位机（目前只提供免安装可运行文件，源码后期再开放）
+- PC端上位机
 - 蓝牙无线串口传输
 - 以STM32为开发平台的下位机DEMO
 
